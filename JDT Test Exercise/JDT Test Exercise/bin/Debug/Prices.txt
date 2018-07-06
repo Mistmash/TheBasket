@@ -1,0 +1,6 @@
+Milk,160
+Bread,100
+Eggs,250
+Chicken,285
+Beef,440
+Pork,320

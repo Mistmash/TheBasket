@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2012\Projects\JDT Test Exercise\JDT Test Exercise\bin\Release\JDT Test Exercise.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\JDT Test Exercise\JDT Test Exercise\bin\Release\JDT Test Exercise.exe
+c:\users\administrator\documents\visual studio 2012\Projects\JDT Test Exercise\JDT Test Exercise\bin\Release\JDT Test Exercise.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\JDT Test Exercise\JDT Test Exercise\obj\Release\JDT Test Exercise.exe
+c:\users\administrator\documents\visual studio 2012\Projects\JDT Test Exercise\JDT Test Exercise\obj\Release\JDT Test Exercise.pdb
